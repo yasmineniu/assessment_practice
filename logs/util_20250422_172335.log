@@ -1,0 +1,3 @@
+2025-04-22 17:23:35,784 - util - WARNING - found invalid date None, replace the value to the last valid date, 
+2025-04-22 17:23:35,791 - util - INFO - user table columns cleaned and converted.
+2025-04-22 17:23:37,764 - util - INFO - merit table columns cleaned and converted.

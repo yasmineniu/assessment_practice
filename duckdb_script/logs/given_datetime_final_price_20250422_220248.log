@@ -1,0 +1,4 @@
+2025-04-22 22:02:48,974 - given_datetime_final_price - INFO - param: date: 2023-01-01, period:1, demand:500.0
+2025-04-22 22:02:48,974 - given_datetime_final_price - INFO - ready to execute sql script to calculate cumulative volumn
+2025-04-22 22:02:49,052 - given_datetime_final_price - INFO - ready to execute sql script to calculate final_bid_price
+2025-04-22 22:02:49,063 - given_datetime_final_price - INFO - The final clearing price for demand 500.0 on 2023-01-01 period 1 is: $-90.00/MWh

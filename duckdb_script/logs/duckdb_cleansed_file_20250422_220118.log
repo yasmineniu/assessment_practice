@@ -1,0 +1,15 @@
+2025-04-22 22:01:18,208 - duckdb_cleansed_file - INFO - ready to execute cleaning sql script
+2025-04-22 22:01:18,660 - duckdb_cleansed_file - INFO - Cleaned User Data Sample:
+2025-04-22 22:01:18,660 - duckdb_cleansed_file - INFO -   info_type       date  period  usep_price  lcp_price  demand_mw  tcl_mw
+0      USEP 2023-01-01       1      158.62        0.0   5539.761     0.0
+1      USEP 2023-01-01       2      147.58        0.0   5443.353     0.0
+2      USEP 2023-01-01       3      126.83        0.0   5384.523     0.0
+3      USEP 2023-01-01       4      144.53        0.0   5367.272     0.0
+4      USEP 2023-01-01       5      144.51        0.0   5331.369     0.0
+2025-04-22 22:01:18,671 - duckdb_cleansed_file - INFO - Cleaned Merit Data Sample:
+2025-04-22 22:01:18,671 - duckdb_cleansed_file - INFO -         date  period  bid_price  bid_volumn
+0 2023-01-01       1    -4750.0        84.3
+1 2023-01-01       1    -4500.0       324.0
+2 2023-01-01       1      -90.0       854.0
+3 2023-01-01       1      -67.0       200.0
+4 2023-01-01       1      -61.0       280.0
